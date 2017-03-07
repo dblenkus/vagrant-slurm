@@ -1,0 +1,13 @@
+# Ignore temporary files
+.*.sw[po]
+*~
+
+# Ignore auto-generated files
+/.vagrant/
+.DS_Store
+
+# Ignore project files
+*.sublime-project
+*.sublime-workspace
+.idea
+.vscode
